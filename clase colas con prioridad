@@ -1,0 +1,10 @@
+-colas ordenadas con un valor de prioridad
+-se desacola primero el de mayor prioridad en direccion al de menor prioridad
+-cuando el valor de prioridad sale primero el que entra primero a la cola
+-
+public class elemento(){
+int prioridad
+int valor
+
+}
+
